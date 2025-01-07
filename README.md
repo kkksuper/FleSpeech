@@ -1,1 +1,1 @@
-This is demo page for FleSpeech: Flexibly Controllable Speech Generation with Multimodal Prompt
+This is demo page for FleSpeech: Flexibly Controllable Speech Generation with Various Prompts
